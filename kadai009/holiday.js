@@ -6,8 +6,8 @@ for (let i = 0; i < holidays.length; i++) {
 }
 
 
-a = 0;
-while (a < holidays.length) {
-  console.log(holidays[a]);
-  i = a++;
+i = 0;
+while (i < holidays.length) {
+  console.log(holidays[i]);
+  i++;
 }
